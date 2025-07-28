@@ -9,7 +9,7 @@ interface Reference {
   journal?: string;
   volume?: string;
   issue?: string;
-  year: string;
+  year?: string;
   pages?: string;
   isbn?: string;
   repository?: string;
@@ -23,19 +23,24 @@ export default function ReferenceList() {
   const formatReference = (ref: Reference): string => {
     switch (ref.type) {
       case 'book':
-        return `${ref.author}. (${ref.year}). ${ref.title}. ${ref.publisher}.${ref.location ? ` ${ref.location}.` : ''}${ref.isbn ? ` ISBN: ${ref.isbn}` : ''}`;
+        const bookYear = ref.year || ref.date || '';
+        return `${ref.author}. (${bookYear}). ${ref.title}. ${ref.publisher}.${ref.location ? ` ${ref.location}.` : ''}${ref.isbn ? ` ISBN: ${ref.isbn}` : ''}`;
       
       case 'journal':
-        return `${ref.author}. (${ref.year}). ${ref.title}. ${ref.journal}, ${ref.volume}(${ref.issue}), ${ref.pages}.`;
+        const journalYear = ref.year || ref.date || '';
+        return `${ref.author}. (${journalYear}). ${ref.title}. ${ref.journal}, ${ref.volume}(${ref.issue}), ${ref.pages}.`;
       
       case 'archival':
-        return `${ref.title}. (${ref.date}). ${ref.repository}. Call Number: ${ref.call_number}.${ref.location ? ` ${ref.location}.` : ''}`;
+        const archivalYear = ref.date || ref.year || '';
+        return `${ref.title}. (${archivalYear}). ${ref.repository}. Call Number: ${ref.call_number}.${ref.location ? ` ${ref.location}.` : ''}`;
       
       case 'web':
-        return `${ref.title}. (${ref.year}). ${ref.publisher}. Retrieved from ${ref.url}`;
+        const webYear = ref.year || ref.date || '';
+        return `${ref.title}. (${webYear}). ${ref.publisher}. Retrieved from ${ref.url}`;
       
       case 'report':
-        return `${ref.title}. (${ref.year}). ${ref.publisher}.`;
+        const reportYear = ref.year || ref.date || '';
+        return `${ref.title}. (${reportYear}). ${ref.publisher}.`;
       
       default:
         return ref.title;
