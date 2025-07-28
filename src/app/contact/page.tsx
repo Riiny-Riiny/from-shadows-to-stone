@@ -51,7 +51,7 @@ export default function Contact() {
       name: "Arek Giir Riny",
       title: "Rising Junior at Franklin & Marshall College",
       email: "agiir@fandm.edu",
-      bio: "Arek brings a meticulous approach to record cross-referencing and field research. His work involves connecting disparate pieces of information to build comprehensive narratives.",
+      bio: "Arek brings a meticulous approach to record cross-referencing and field research. Her work involves connecting disparate pieces of information to build comprehensive narratives.",
       expertise: ["Record Cross-referencing", "Field Notes", "Writing"],
       linkedin: "https://www.linkedin.com/in/arek-giir-643b90352/",
      

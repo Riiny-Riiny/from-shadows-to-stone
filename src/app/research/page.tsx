@@ -313,32 +313,32 @@ export default function Research() {
       {/* Reflect & Remember Banner */}
       <Section className="bg-gray-900 text-white">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="bg-white bg-opacity-10 rounded-lg p-8 border border-white border-opacity-20">
-            <h2 className="text-3xl font-bold mb-6">
+          <div className="bg-blue-50 bg-opacity-10 rounded-lg p-8 border border-white border-opacity-20">
+            <h2 className="text-3xl font-bold mb-6 text-yellow-900">
               Reflect & Remember
             </h2>
-            <p className="text-lg text-gray-200 leading-relaxed mb-6">
+            <p className="text-lg text-black leading-relaxed mb-6">
               We honor the memory of those whose lives were intertwined with Franklin College but whose stories have been largely forgotten. Their labor, resilience, and humanity helped build this institution, and their legacy deserves to be remembered with dignity and respect.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
-              <div className="bg-white bg-opacity-5 rounded-lg p-4">
-                <h3 className="font-semibold mb-2">Esther</h3>
-                <p className="text-gray-300">14-year-old Black girl enslaved by William Hamilton</p>
+              <div className="bg-yellow bg-opacity-5 rounded-lg p-4">
+                <h3 className="font-semibold mb-2 text-blue-900">Esther</h3>
+                <p className="text-black">14-year-old Black girl enslaved by William Hamilton</p>
               </div>
-              <div className="bg-white bg-opacity-5 rounded-lg p-4">
-                <h3 className="font-semibold mb-2">Loby</h3>
-                <p className="text-gray-300">14-year-old boy enslaved by William Hamilton</p>
+              <div className="bg-yellow bg-opacity-5 rounded-lg p-4">
+                <h3 className="font-semibold mb-2 text-blue-900">Loby</h3>
+                <p className="text-black">14-year-old boy enslaved by William Hamilton</p>
               </div>
-              <div className="bg-white bg-opacity-5 rounded-lg p-4">
-                <h3 className="font-semibold mb-2">Ben</h3>
-                <p className="text-gray-300">8-year-old boy enslaved by William Hamilton</p>
+              <div className="bg-yellow bg-opacity-5 rounded-lg p-4">
+                <h3 className="font-semibold mb-2 text-blue-900">Ben</h3>
+                <p className="text-black">8-year-old boy enslaved by William Hamilton</p>
               </div>
-              <div className="bg-white bg-opacity-5 rounded-lg p-4">
-                <h3 className="font-semibold mb-2">Isaac</h3>
-                <p className="text-gray-300">9-10 month old boy enslaved by Paul Zantzinger</p>
+              <div className="bg-yellow bg-opacity-5 rounded-lg p-4">
+                <h3 className="font-semibold mb-2 text-blue-900">Isaac</h3>
+                <p className="text-black">9-10 month old boy enslaved by Paul Zantzinger</p>
               </div>
             </div>
-            <p className="text-gray-300 mt-6 text-sm">
+            <p className="text-black mt-6 text-sm">
               "Each of these individuals had a remarkable story to be remembered, not just as slaves, but also as individuals who made significant contributions to this community."
             </p>
           </div>
