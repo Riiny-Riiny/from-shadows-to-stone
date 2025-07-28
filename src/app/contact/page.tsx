@@ -26,7 +26,18 @@ export default function Contact() {
     });
   };
 
-  const researchers = [
+  type Researcher = {
+    name: string;
+    title: string;
+    email: string;
+    bio: string;
+    expertise: string[];
+    linkedin?: string;
+    portfolio?: string;
+    availability: string;
+  };
+
+  const researchers: Researcher[] = [
     {
       name: "Frances Taylor",
       title: "Rising Junior at Franklin & Marshall College",
