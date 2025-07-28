@@ -1,0 +1,179 @@
+[
+  {
+    "id": "1",
+    "type": "archival",
+    "title": "Charter of Franklin College",
+    "publisher": "Bryson & Forney, printers",
+    "year": "1837",
+    "location": "Lancaster, Pa."
+  },
+  {
+    "id": "2",
+    "type": "archival",
+    "title": "Register of Enslaved Persons, 1780",
+    "repository": "LancasterHistory",
+    "date": "1780",
+    "call_number": "Black History Collection, MG0240_Ser01_F017",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "3",
+    "type": "archival",
+    "title": "Return of Amos Slaymaker, 17 March 1789",
+    "repository": "LancasterHistory",
+    "date": "1789",
+    "call_number": "Black History Collection, MG0240_Ser01_F003_It05",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "4",
+    "type": "archival",
+    "title": "Return of Jasper Yeates, 22 September 1788",
+    "repository": "LancasterHistory",
+    "date": "1788",
+    "call_number": "Black History Collection, MG0240_Ser01_F013",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "5",
+    "type": "archival",
+    "title": "Return of John Hubley, 1790",
+    "repository": "LancasterHistory",
+    "date": "1790",
+    "call_number": "Black History Collection, MG0240_Ser01_F006_It04",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "6",
+    "type": "archival",
+    "title": "Return of John Hubley, 26 February 1788",
+    "repository": "LancasterHistory",
+    "date": "1788",
+    "call_number": "Black History Collection, MG0240_Ser01_F002_It07",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "7",
+    "type": "archival",
+    "title": "Return of Joseph Hubley of Lancaster, 09/26/1791",
+    "repository": "LancasterHistory",
+    "date": "1791",
+    "call_number": "Black History Collection, MG0240_Ser01_F007_It05",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "8",
+    "type": "archival",
+    "title": "Return of Paul Zantzinger, 25 February 1789",
+    "repository": "LancasterHistory",
+    "date": "1789",
+    "call_number": "Black History Collection, MG0240_Ser01_F002_It06",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "id": "9",
+    "type": "archival",
+    "title": "Letter to James Hamilton and William Hamilton in Lancaster",
+    "repository": "Lancaster History Library - Microfilm",
+    "date": "1781",
+    "call_number": "Hamilton Family Letterbook",
+    "location": "LANCASTER, PA"
+  },
+  {
+    "id": "10",
+    "type": "journal",
+    "author": "Clark, Martha Bladen",
+    "title": "Lancaster County's Relation to Slavery",
+    "journal": "Journal of the Lancaster County Historical Society",
+    "volume": "15",
+    "issue": "2",
+    "year": "1911",
+    "pages": "15"
+  },
+  {
+    "id": "11",
+    "type": "book",
+    "author": "Evans, Samuel",
+    "title": "History of Lancaster County, Pennsylvania: with Biographical Sketches of Its Pioneers and Prominent Men",
+    "publisher": "Everts & Peck",
+    "year": "1883",
+    "location": "Philadelphia, Pennsylvania"
+  },
+  {
+    "id": "12",
+    "type": "journal",
+    "author": "Hensel, W U",
+    "title": "Major John Andre's Residence in Lancaster",
+    "journal": "Journal of the Lancaster County Historical Society",
+    "volume": "8",
+    "issue": "5",
+    "year": "1904",
+    "pages": "8"
+  },
+  {
+    "id": "13",
+    "type": "book",
+    "author": "Hensel, W U",
+    "title": "The Attitude of James Buchanan: a citizen of Lancaster County towards the institution of Slavery in the United States",
+    "publisher": "Press of the New Era Printing Co.",
+    "year": "1911",
+    "location": "Lancaster, Pa"
+  },
+  {
+    "id": "14",
+    "type": "book",
+    "author": "Slaymaker, Henry Cochran",
+    "title": "History of the Descendants of Mathias Slaymaker",
+    "publisher": "Apple Manor Press",
+    "year": "2017"
+  },
+  {
+    "id": "15",
+    "type": "web",
+    "title": "Witness Stones Project",
+    "publisher": "Historic Rock Ford",
+    "year": "2025",
+    "url": "https://www.historicrockford.org/witnessstonesproject"
+  },
+  {
+    "id": "16",
+    "type": "book",
+    "author": "Hawbaker, Gary T.",
+    "title": "Runaway, Rascals, And Rogues",
+    "publisher": "G.T. Hawbaker",
+    "year": "1987",
+    "volume": "1",
+    "location": "Lancaster, Pa"
+  },
+  {
+    "id": "17",
+    "type": "archival",
+    "title": "Franklin College Board of Trustees Minutes",
+    "repository": "Franklin & Marshall College Archives",
+    "date": "1827-1865",
+    "call_number": "FC-BOT-001"
+  },
+  {
+    "id": "18",
+    "type": "archival",
+    "title": "Student Enrollment Records, 1827-1865",
+    "repository": "Franklin & Marshall College Archives",
+    "date": "1827-1865",
+    "call_number": "FC-ENR-001"
+  },
+  {
+    "id": "19",
+    "type": "archival",
+    "title": "Correspondence of College Presidents",
+    "repository": "Franklin & Marshall College Archives",
+    "date": "1827-1865",
+    "call_number": "FC-COR-001"
+  },
+  {
+    "id": "20",
+    "type": "report",
+    "title": "Legacy of Slavery Report",
+    "publisher": "Franklin & Marshall College",
+    "year": "2022"
+  }
+] 
