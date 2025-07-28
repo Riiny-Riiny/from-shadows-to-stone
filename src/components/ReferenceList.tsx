@@ -2,7 +2,7 @@ import references from '@/data/references.json';
 
 interface Reference {
   id: string;
-  type: 'book' | 'journal' | 'archival' | 'web' | 'report';
+  type: string;
   author?: string;
   title: string;
   publisher?: string;
