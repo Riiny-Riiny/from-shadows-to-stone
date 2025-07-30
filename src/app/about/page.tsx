@@ -15,7 +15,7 @@ export default function About() {
     {
       name: "Arek Giir Riny",
       title: "Rising Junior at Franklin & Marshall College",
-      bio: "Arek brings a meticulous approach to record cross-referencing and field research. Her work involves connecting disparate pieces of information to build comprehensive narratives about Franklin College's past. He is particularly interested in how historical research can inform present-day institutional practices and community relationships.",
+      bio: "Arek brings a meticulous approach to record cross-referencing and field research. Her work involves connecting disparate pieces of information to build comprehensive narratives about Franklin College's past. She is particularly interested in how historical research can inform present-day institutional practices and community relationships.",
       expertise: ["Record Cross-referencing", "Field Notes", "Writing", "Research Methodology"],
       email: "agiir@fandm.edu",
       funFact: "Arek enjoys crocheting and is a member of the Franklin & Marshall College Cross Country team. She is also a model and a film student.",
