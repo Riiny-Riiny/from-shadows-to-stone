@@ -6,7 +6,7 @@ export default function About() {
     {
       name: "Frances Taylor",
       title: "Rising Junior at Franklin & Marshall College",
-      bio: "Frances is passionate about uncovering hidden histories and bringing forgotten stories to light. Her work focuses on historical analysis and archival research, with a particular interest in how institutions can acknowledge and address their complex pasts. She believes that understanding our history is essential for building a more just future.",
+      bio: "Frances is passionate about uncovering hidden histories and bringing forgotten stories to light. Their work focuses on historical analysis and archival research, with a particular interest in how institutions can acknowledge and address their complex pasts. She believes that understanding our history is essential for building a more just future.",
       expertise: ["Historical Analysis", "Archival Research", "Institutional History", "Social Justice"],
       email: "ftaylor@fandm.edu",
       funFact: "When not in the archives, Frances enjoys hiking and discovering local historical sites.",
@@ -15,7 +15,7 @@ export default function About() {
     {
       name: "Arek Giir Riny",
       title: "Rising Junior at Franklin & Marshall College",
-      bio: "Arek brings a meticulous approach to record cross-referencing and field research. His work involves connecting disparate pieces of information to build comprehensive narratives about Franklin College's past. He is particularly interested in how historical research can inform present-day institutional practices and community relationships.",
+      bio: "Arek brings a meticulous approach to record cross-referencing and field research. Her work involves connecting disparate pieces of information to build comprehensive narratives about Franklin College's past. He is particularly interested in how historical research can inform present-day institutional practices and community relationships.",
       expertise: ["Record Cross-referencing", "Field Notes", "Writing", "Research Methodology"],
       email: "agiir@fandm.edu",
       funFact: "Arek enjoys crocheting and is a member of the Franklin & Marshall College Cross Country team. She is also a model and a film student.",
