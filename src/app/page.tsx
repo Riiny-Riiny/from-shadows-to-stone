@@ -7,14 +7,14 @@ export default function Home() {
     {
       name: "Frances Taylor",
       title: "Rising Junior at Franklin & Marshall College",
-      bio: "Frances is passionate about uncovering hidden histories and bringing forgotten stories to light. Her work focuses on historical analysis and archival research.",
+      bio: "Frances is passionate about uncovering hidden histories and bringing forgotten stories to light. Their work focuses on historical analysis and archival research.",
       expertise: ["Historical Analysis", "Archival Research", "Institutional History"],
       email: "ftaylor@fandm.edu"
     },
     {
       name: "Arek Giir Riny",
       title: "Rising Junior at Franklin & Marshall College",
-      bio: "Arek brings a meticulous approach to record cross-referencing and field research. His work involves connecting disparate pieces of information to build comprehensive narratives.",
+      bio: "Arek brings a meticulous approach to record cross-referencing and field research. Her work involves connecting disparate pieces of information to build comprehensive narratives.",
       expertise: ["Record Cross-referencing", "Field Notes", "Writing"],
       email: "agiir@fandm.edu"
     }
